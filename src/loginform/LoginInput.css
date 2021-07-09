@@ -1,0 +1,42 @@
+.form-group{
+    margin-top: 0.5em;
+    margin-bottom: 1em;
+}
+
+.form-group input {
+    width: 100%;
+    font-family: cursive !important;
+    border-radius: 0.5em;
+    outline: none;
+}
+
+.form-group input:active, .form-group input:focus  {
+    color: #212529;
+    background-color: #fff;
+    border-color: #86b7fe;
+    outline: 0;
+    box-shadow: 0 0 0 0.25rem rgb(13 110 253 / 25%);
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    padding: 0.7em 0em 0.7em 0em;
+    font-size: 1em;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.error_span {
+    color: red;
+    font-size: 0.7em;
+}

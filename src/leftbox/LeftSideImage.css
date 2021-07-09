@@ -1,0 +1,12 @@
+.img_div{
+    text-align: center;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    
+
+}
+
+.img_div img {
+  width: 80%;
+  border-radius: 2em;
+}

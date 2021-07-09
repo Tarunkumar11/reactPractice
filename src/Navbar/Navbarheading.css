@@ -1,0 +1,12 @@
+
+
+.heading-text{
+    margin-right: 3%;
+    text-align: center;
+}
+.heading-text h2{
+    font-weight: bolder;
+    font-size: 1.5em;
+    font-family: cursive !important;
+    color: white;
+}

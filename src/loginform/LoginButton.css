@@ -1,0 +1,47 @@
+
+.login-button{
+  text-align: left;
+}
+
+.login-button button{
+  width: 80%;
+  border-radius: 0.5em;
+  outline: none;
+  background: #1a1e21;
+  color: white;
+  padding: 1em;
+  font-family: cursive !important;
+    
+}
+
+
+.login-button button:focus, .login-button button:active{
+  color: #fff;
+  background-color: #1c1f23;
+  border-color: #1a1e21;
+  box-shadow: 0 0 0 0.25rem rgb(66 70 73 / 50%);
+}
+  
+#login-btn{
+  font-size: 1em;
+  width: 50%;
+  display: inline-block;
+  font-weight: 400;
+  line-height: 1.5;
+  text-align: center;
+  margin: 0.5em 0 0.3em 0em;
+  padding: 0.5em;
+  
+}
+
+
+
+#admin-login {
+    font-size: 1em;
+    margin: 0% 15% 0 15%;
+    border-radius: 0.5em;
+    color: #fff;
+    text-align: center;
+    padding: 0.5em;
+
+}
